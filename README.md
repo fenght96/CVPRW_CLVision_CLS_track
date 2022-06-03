@@ -33,4 +33,4 @@ DATASET_PATH = ''
 ```bash
 python classification_base.py
 ```
-the output file is ``` './instance_detection_results' ```
+the output file is ``` './instance_classification_results_vit' ```
